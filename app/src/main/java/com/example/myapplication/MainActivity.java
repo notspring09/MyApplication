@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("ABC");
     }
     private void Something(){
-
+        System.out.println("something change");
     }
 }
