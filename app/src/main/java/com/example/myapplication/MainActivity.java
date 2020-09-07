@@ -14,7 +14,9 @@ public class MainActivity extends AppCompatActivity {
     private  void TestVoid(){
         System.out.println("ABC");
     }
-
+    private  void TestVoid1(){
+        System.out.println("ABC");
+    }
     private void Something(){
         System.out.println("this is test text");
     }
